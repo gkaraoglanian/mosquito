@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mosquito": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
